@@ -13,7 +13,10 @@
     <br>  
     <label for="name"><b>LastName</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <br> <label for="name"><b>BrotherName</b></label>
+    <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
+
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
